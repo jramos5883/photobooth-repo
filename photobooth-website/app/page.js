@@ -1,3 +1,7 @@
 export default function LandingPage() {
-  return <div className="bg-blue-300 h-screen">Landing Page!</div>;
+  return (
+    <div className="bg-purple-300 h-screen">
+      <h1>360 Photo Booth!</h1>Landing Page!
+    </div>
+  );
 }
